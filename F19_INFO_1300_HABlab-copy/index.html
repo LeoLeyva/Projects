@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang = "en">
+<head>
+    <meta charset = "UTF-8">
+    <title> HABLab </title>
+    <!--  CSS  -->
+    <link rel="stylesheet" type="text/css" href="styles/final.css" media="all"/>
+
+    <!--  Scripts  -->
+    <script type="text/javascript" src="scripts/jquery-3.4.1.min.js"></script>
+    <script type="text/javascript" src="scripts/slideshow.js"></script>
+    <script type="text/javascript" src="scripts/research_slideshow.js"></script>
+    <script type="text/javascript" src="scripts/dropdown.js"></script>
+</head>
+<body>
+  <div class="index">
+    <header><a href = "index.html"><h1> <strong> Human & Animal Bone Lab </strong> </h1></a></header>
+
+    <header class= "header">
+      <nav>
+        <ul>
+          <li class= "hover"> <a href = "index.html"> Home</a> </li>
+          <li class= "hover"> <a href = "research.html"> Research </a> </li>
+          <li class= "hover"> <a href = "courses.html"> Teaching </a> </li>
+          <li  class= "hover" id= "members-tab"> <a href = "members.html"> Members </a>
+            <ul id="membersDropdown" class="dropdown hidden">
+              <li><a href="members.html">Professors</a></li>
+                <li><a href="members_grad.html">Students</a></li>
+            </ul>
+          </li>
+          <li class= "hover"> <a href = "news.html"> Current News </a></li>
+        </ul>
+      </nav>
+    </header>
+  </div>
+
+  <!-- <hr/> -->
+  <div class="slideshow">
+    <h2>HABLab's Highlights</h2>
+    <div class="slideshowImageHolder">
+      <img id="slideshowImage" src="images/gallerypic2.jpg" alt="HABLab's Highlights"/>
+    </div>
+    <div class="slideshowButtonHolder">
+      <div id="slideshowNext" class="slideshowNextButton">
+        <a>Next &gt;</a>
+      </div>
+    </div>
+  </div>
+
+  <!-- <hr/> -->
+  <div class="page">
+    <h2> About </h2>
+    <p class = "para">The Human and Animal Bone Lab(HABLab) is a powerful research coalition centered on the advanced analysis of osteological resources in two distinct but overlapping fields of inquiry: zooarchaeology (the analysis of animal remains) and bioarchaeology(the study of human remains in their archaeological context). Located in the historic McGraw Hall on Cornell’s Arts Quad, our collaborative suite (McGraw 101) is comprised of a Zooarchaeology Research Laboratory (Director: Nerissa Russell), Bioarchaeology Research Laboratory (Director: Matthew Velasco), and a shared teaching space which hosts a rotating curriculum of courses centered on skeletal analysis and interpretation. Our research labs also provide opportunities for graduate and undergraduate students to gain hands-on experience in osteological curation and to pursue their own research projects using archival data, modern anatomical collections, and archaeological materials housed in our facilities.
+    </p>
+  </div>
+
+  <footer class = "foot">
+    <ul>
+      <!--Source:https://fonts2u.com/champagne-limousines.font-->
+      <li class = "hover"><a target = "_blank" href = "https://fonts2u.com/champagne-limousines.font">Font Source</a></li>
+    </ul>
+  </footer>
+</body>
+</html>
