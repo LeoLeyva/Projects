@@ -1,0 +1,130 @@
+body, html{
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  background-color: beige;
+
+}
+
+.cover {
+  background-color: #994f00;
+}
+
+
+header h1 {
+  padding: 5px 5px;
+  text-align: center;
+  font-size: 48px;
+  word-spacing: 3em;
+  letter-spacing: 0.5em;
+  height: 200px;
+  margin-top: 200px;
+}
+
+h1, h2, h3, h4 {
+  font-family: "sans-serif",serif;
+  color: black;
+  text-transform: capitalize;
+
+}
+
+img{
+  display: block;
+  margin:auto;
+}
+
+p{
+  font-family: serif, "sans-serif";
+}
+
+cite a {
+  text-align: center;
+  display: block;
+}
+
+
+
+h2{
+  font-size: 200px;
+  text-align: center;
+  letter-spacing: 0.5em;
+}
+
+
+section {
+  width: 100%;
+  text-align: center;
+  display: inline-block;
+  margin: auto;
+  border: solid #0823d7;
+  border-right: none;
+  border-left: none;
+  padding: 20px 0px 20px 0px;
+
+
+
+}
+
+li {
+  display:inline-block;
+  border: outset #0823d7;
+  border-width: 20px;
+  padding: 10px 10px;
+  margin: 10px 20px 0px 20px;
+  background-color: yellow;
+  width: 7%;
+}
+
+
+a{
+  text-decoration: none;
+  color: black;
+  font-family: impact, "comic sans ms", serif, "sans-serif";
+}
+
+
+nav{
+  position:sticky;
+  top: 0;
+  text-align: center;
+  border: outset black;
+  width: 100%;
+  background-color: gold;
+
+
+}
+
+
+.home_image{
+  background-size: 100% auto;
+  margin: 20px auto;
+  display: block;
+}
+
+.uno{
+  margin: 50px 0px 0px 0px;
+
+}
+
+.ultimo{
+
+  border-bottom: none;
+}
+
+section{
+  display: flex;
+  flex-direction: row;
+}
+
+div{
+  display: flex;
+  flex-direction: column;
+  text-align: right;
+}
+
+.home{
+  text-align: center;
+  word-spacing: 1em;
+}
