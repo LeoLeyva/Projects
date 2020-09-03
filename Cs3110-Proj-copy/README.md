@@ -1,7 +1,7 @@
 # Cs3110-Proj
 
-Credits:
+## Credits:
 
-## Co-Developer: AB2252 (Amber Baez) 
+### Co-Developer: AB2252 (Amber Baez) 
 
-Inspired by: Battleships
+## Inspired by: Battleships
