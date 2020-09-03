@@ -19,7 +19,7 @@ Given that our previous professor locked the original repository in which we com
 - Mobile User Test 1
 ***
 
-### akn35: 
+### akn35 (Angelina Kristi Nugroho): 
 - members.html 
 - members_grad.html
 - dropdown.js
@@ -28,21 +28,21 @@ Given that our previous professor locked the original repository in which we com
 - Took the photos used for the slideshows
 ***
 
-### amw395: 
+### amw395 (Allison Johnson): 
 - courses.html
 - Mobile design sketch
 - Desktop design sketch
 - Desktop User Test 2
 ***
 
-### crf85: 
+### crf85 (Cesar Rafael Ferreyra-Mansilla): 
 - news.html
 - Mobile User Test 2
 - Essentially designed the navigation bar and the footer
 - Responsible for the animations used in the navigation bar and in news.html
 ***
 
-### rsa83: 
+### rsa83 (Robel Shimelis Ayalew): 
 - index.html 
 - slideshow.js
 ***
